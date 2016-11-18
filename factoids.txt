@@ -1,0 +1,91 @@
+pastebin pastebin.com is slow, adds whitespace, has adverts, is blocked for many people. Please use a more pleasant pastebin, such as http://ix.io , http://dpaste.de , http://lpaste.net , https://gist.github.com , https://cpy.pt/
+86-emu http://carlosrafaelgn.com.br/Asm86/
+cs <beingbrown> yeah. if you shift 8 of them, it's one byte
+pharpend https://www.youtube.com/watch?v=sBIEQOzZFNE | https://www.youtube.com/watch?v=g8EDjOesFH8 | [pharpend] I can't even stab myself without fucking up | [pharpend] I remember I was talking to a girl once, and she asked what I do for fun, and I replied "Oh I read about math and I program". The look on her face progressed from: 1. pure confusion to 2. disgust to 3. pity | <pharpend> the last time I tried to give someone maintainership I accidentally deleted the repo
+loop $get loop
+recursion Recursion is recursive. For more information, see $recursion
+compiles <Jon10> Huh, so it appears the issue only happens in release mode, doesn't occur in debug. | IT COMPILES???? SHIP IT!!!!!
+cookies Whenever you make a testcase, nchambers gives you a cookie
+projects https://www.raylu.net/httpd.txt | https://github.com/karan/Projects | https://gist.github.com/raylu/5c6d570ae186f963ad2d
+recruiting This is really not the place to be looking for work, people to do work, or a mentor.
+codepieces It's not up to you to decide what code is or is not relevant to your problem. Please make a full testcase.
+sysadmin https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma?context=3 https://www.reddit.com/r/sysadmin/wiki/faq https://www.reddit.com/r/sysadmin/wiki/bootcamp https://www.reddit.com/r/sysadmin/wiki/index
+license http://choosealicense.com
+standards darkf has none | https://xkcd.com/927/
+problem-list http://www.ta-sa.org/2016/04/22/programming-problem-index.html
+gitguide http://rogerdudler.github.io/git-guide
+pictures Please. Do. Not. Post. Pictures. Of. Code.
+fangs <fangs124> WHERE DO ALL THESE EXTRA LINE COMMING FROM
+what What is the problem? What is confusing? What have you done?
+descriptive We aren't mind readers. Please explain exactly what your issue is. Also see $ask $pastebin and $testcase
+crystalball I will now predict your future. I am looking into my crystal ball, and see... see... what appears to be raylu, and he appears to be saying: "Write a shell"
+testcase A testcase is a minimal compilable example exhibiting your symptoms. "Minimal" means just the bare essentials required to illustrate your question. "Compilable" means that there is enough code to compile it on our machines, and therefore use our debuggers. Please paste a testcase at http://ideone.com or http://codepad.org to help us assist you. For a testcase checklist: http://eel.is/iso-c++/testcase/
+ask Don't ask to ask, skip the pleasantries and just ask your actual question.
+pedantic Technical language is not like everday speech where correcting a non-native speaker might be seen as impolite. Here it's absolutely necessary and should be seen as something neutral rather than rude or condescending.
+snowman ☃
+sqli http://bobby-tables.com
+spoonfeed "Having someone do certain things for you is like getting someone to chew your food for you. It might be easier to swallow but it loses all its flavor... And you want the flavor!"
+shrug ¯\_(ツ)_/¯
+lod ಠ_ಠ
+ls DO NOT USE ls' output for anything. ls is a tool for interactively looking at directory metadata. Any attempts at parsing ls' output with code are broken. Globs are much more simple AND correct: ''for file in *.txt''. Read http://mywiki.wooledge.org/ParsingLs
+qefs "$Quote" "$Every" "$Fucking" "$Substitution"
+[[ [[ is a bash keyword similar to (but more powerful than) the [ command. See <http://mywiki.wooledge.org/BashFAQ/031> and <http://mywiki.wooledge.org/BashGuide/TestsAndConditionals>. Unless you're writing for POSIX sh, we recommend [[.
+[ test or [ test is the POSIX test command. It can do simple tests on files and strings. In bash, you should use the more powerful [[ instead and ban [ for sake of consistency. [[ can do pattern matching, is faster and safer to use. http://mywiki.wooledge.org/BashGuide/TestsAndConditionals http://mywiki.wooledge.org/BashFAQ/031
+pe Parameter Expansion expands parameters: "$foo", "$1". You can use it to perform string or array operations: "${file%.mp3}", "${0##*/}", "${files[@]: -4}". They should *always* be quoted. See: http://mywiki.wooledge.org/BashFAQ/073 and "Parameter Expansion" in man bash. Also see http://wiki.bash-hackers.org/syntax/pe.
+html You can't parse tag-based languages like HTML or XML using bash, grep, sed, cut, etc. See http://mywiki.wooledge.org/BashFAQ/113 instead.
+xy http://mywiki.wooledge.org/XyProblem -- "I want to do X, but I'm asking how to do Y..."
+shellcheck ShellCheck is a shell linting/suggestion tool: http://www.shellcheck.net/
+alis We are not a channel listing service. Please see /msg alis help list
+roulette *click* | *click* | *click* | *click* | *click* | *BANG*
+rand int rand() { return 4; /* Chosen by dice roll. Guaranteed to be random. */ }
+2048-ai http://ov3y.github.io/2048-AI/
+algorithms http://bost.ocks.org/mike/algorithms/
+arcade https://archive.org/details/internetarcade
+connection-record 45
+cron <KindOne> "***** - Five star cron job. Will run again."
+42-cpp << reinterpret_cast<int(*)()>("\xB8\x2A\x00\x00\x00\xC3")();
+todo-list destroy usandfriends
+c-family <Fabtasticwill> japanese and html are a lot alike
+forkbomb :(){ :|:& };:
+guiippiadadui Globally universally interstellar intergalatic planetary planetary intergalatic another dimension another dimension unique identifier
+internet-shit <ResidentBiscuit> TCP = shit always gets there. UDP = shit may get there. NAT = Your shit is different to the rest of the world. IP = How people talk to your shit. Ports = How your shit talks to several other shits at once
+paths <ne555> /usr/include <nchambers> wrong OS ne555 <ne555> c:>\usr\include
+next Another satisfied customer... next!
+ngt Narcissistic Greeting Time, cuz we're fabulous.
+omega-pearls Java is almost 100% C++.
+projectmanagers think you can create a baby in 1 month with 9 women. Don't take it personally.
+life-lessons <TheRabbitologist> Stay in drugs and don't do school.
+threats <TheRabbitologist> If I ever meet you, I will tickle you.
+rb <TheRabbitologist> You wouldn't believe how awkward it was to get a keyboard up his mother's vagina so that he could do development work on weekends. | <ResidentBiscuit> Do you deliver to other states? I could use some pizza | frugality I more enjoy the act of brewing tea than actually drinking it. | Make an app. Get rich. Make bitches.
+rb-pr0n [ResidentBiscuit] I jerk it to chrome somedays
+rb-salsa Such good. So flavor. Very spice though.
+ru-int TheRabbitologist: Really unsigned int.
+shit-rabbit-says <TheRabbitologist> And, I'll need to set up all the signals/sluts for closing stuff.
+shit-tachyon-says <Tachyon> seriously, i almost want to be girl in order to fantasize about going out with him xD
+spoiler-alert The titanic sinks.
+sql <preaction> and as someone who's parsed html with SQL, it's a terrible idea
+typical-rabbit <TheRabbitologist> I also owned God for a year before that. It broke.
+ugt Universal Greeting Time, because the length of a day is socially-constructed.
+ub-solved #define BEHAVIOR /* there... now one can complain about undefined behavior */
+unicode-stuffz http://www.joelonsoftware.com/articles/Unicode.html
+usandf-creep <usandfriends> I am not fucking a creep.
+usand-lovelife <usandfriends> I dated this one compiler in my junior year. she kept obfuscating my dick!
+zalgo H̡e ̴w̴ho ͘wai̵t͠s beh̴įnd t̀h̀e ͠wall.̡ Z̠̗̼̥̍ͣͫͪ̇̄A̙̠̦͈̰͖ͫL̻̣̄ͮͭ̑̉ͤG̩̹O̰̯̭ͫ̆̋ͥ͂ͯ̏!̺̱̠̯̀̿ͮ
+backpack-hentai http://pastebin.com/pgrY6xU7
+ops darkf, darkfm, tangentstorm, raylu, adrian17, nchambers, dtscode, redlizard, taylskid
+brainfuck http://www.muppetlabs.com/~breadbox/bf/
+syn ack
+apple 
+pear The cake is a lie
+pick 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+usandbio system grandma
+ipfs https://ipfs.io/
+pingfs https://github.com/yarrick/pingfs
+help you are beyond help. | no | 42
+tias Try it and see!
+seniority a measurement of how long you've been wrong.
+ts-solution https://cpy.pt/2aH92hRh
+doesntwork How doesn't it work? Be descriptive.
+file-count echo $(( `ls -l | awk '{ print $9; }' | cat | cat | cat | wc -l` - 1 ))
+hi hello
+ping pong
